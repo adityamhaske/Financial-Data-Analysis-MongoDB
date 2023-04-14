@@ -4,14 +4,15 @@ This project involves querying financial data stored in a MongoDB database, and 
 ### Requirements
 To run this project, you'll need:
 
-Python 3.x
-The following Python packages: pandas, pymongo, matplotlib, seaborn
+- Python 3.x
+
+- The following Python packages: pandas, pymongo, matplotlib, seaborn
 
 ### Getting started
-Clone the repository to your local machine.
-Install the required Python packages using pip install -r requirements.txt.
-Make sure that you have a MongoDB instance running on your local machine. You can download MongoDB here.
-Download the Apple stock dataset in CSV format from here and place it in the data directory.
+- Clone the repository to your local machine.
+- Install the required Python packages using pip install -r requirements.txt.
+- Make sure that you have a MongoDB instance running on your local machine. You can download MongoDB here.
+- Download the Apple stock dataset in CSV format from here and place it in the data directory.
 
 ### Project structure
 The project is structured as follows:
