@@ -3,9 +3,7 @@ This project involves querying financial data stored in a MongoDB database, and 
 
 ### Requirements
 To run this project, you'll need:
-
 - Python 3.x
-
 - The following Python packages: pandas, pymongo, matplotlib, seaborn
 
 ### Getting started
